@@ -1,0 +1,7 @@
+/.idea
+__pycache__
+/venv
+/.env
+venv
+/node_modules
+/node_modules/
